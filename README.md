@@ -137,5 +137,24 @@ Hospitality\_Dashboard.pbix: The Power BI dashboard file.
 
 ##### Conclusion
 
-This project proves the importance of Power BI, Power Query, and DAX in transforming the hospitality data into useful business insights and making data-driven decisions.
+This project proves the importance of Power BI, Power Query, and DAX in transforming the hospitality data into useful business insights and making data-driven 
+
+
+
+## 📊 Project Screenshots
+
+### 1. Final Dashboard
+![Final Dashboard](screenshot/05_dashboard.png)
+
+### 2. Data Model View
+![Data Model](screenshot/03_model_view.png)
+
+### 3. DAX Measures
+![DAX Measures](screenshot/04_DAX_measures.png)
+
+### 4. Data Transformation
+![Data Transformation](screenshot/02_data_tansformation.png)
+
+### 5. Dataset Overview
+![Dataset](screenshot/01_dataset.png)shot/01_dataset.png)decisions.
 
