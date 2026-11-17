@@ -1,0 +1,27 @@
+Project Name: Hospitality Revenue Analysis
+
+
+Dataset Source:
+
+The dataset files were provided through a YouTube tutorial for learning and project development.
+
+
+Dataset Files:
+
+1. dim_date.csv
+2. dim_hotels.csv
+3. dim_rooms.csv
+4. fact_aggregated_bookings.csv
+5. fact_bookings.csv
+
+
+Tools Used:
+
+1. Microsoft Power BI
+2. Power Query
+3. DAX
+
+
+Project Purpose:
+
+To analyze hotel revenue, occupancy, booking trends, and cancellation patterns using Power BI.
